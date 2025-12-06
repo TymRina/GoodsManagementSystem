@@ -1,0 +1,3 @@
+# 简化代码难度,无需使用M层
+class LoginModel:
+    ...
